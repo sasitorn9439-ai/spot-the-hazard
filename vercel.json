@@ -1,0 +1,28 @@
+{
+  "rewrites": [
+    {
+      "source": "/admin",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/admin/",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/play",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/play/",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/solo",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/solo/",
+      "destination": "/index.html"
+    }
+  ]
+}
